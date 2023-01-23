@@ -1,0 +1,21 @@
+.cover {
+    background: rgba(0, 0, 0, 0.6);
+    background-blend-mode: darken;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+
+.txt-c-white {
+    color: rgb(209, 205, 205);
+}
+.text-c-grey {
+    color: rgb(172, 169, 169);
+}
+
+.active{
+    color: white;
+}
